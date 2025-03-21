@@ -8,7 +8,8 @@
 ## Crafts
 * https://gw2crafts.net/ 
   * Buylists de como subir cada disciplina de craft do 0 até o 400-500
-  * Versao f2p dos manuais: https://gw2crafts.net/f2p/ 
+  * Versao f2p dos manuais: https://gw2crafts.net/f2p/
+* [Crafting Calculator](https://gw2efficiency.com/crafting/calculator)
 
 ## Build Crafting
 *  [GW2: A Crappy Guide to Dealing Damage...](https://www.youtube.com/watch?v=F11pvAsvtRg)
