@@ -19,4 +19,4 @@
 * Tudo: [MetaBattle](https://metabattle.com/wiki/MetaBattle_Wiki) e [Hardstuck](https://hardstuck.gg/gw2/builds/)
 
 ## Misc
-* [HoT] https://www.reddit.com/r/Guildwars2/comments/134xbvt/octovine_meta_event_flowchart_for_new_players/ 
+* [HoT] [Octovine meta event flowchart for new players](https://www.reddit.com/r/Guildwars2/comments/134xbvt/octovine_meta_event_flowchart_for_new_players/)
