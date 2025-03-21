@@ -14,9 +14,9 @@
 *  [GW2: A Crappy Guide to Dealing Damage...](https://www.youtube.com/watch?v=F11pvAsvtRg)
 
 ## Builds
-* Raids, Dungeons & Open World: https://snowcrows.com/
+* Raids, Dungeons e Open World: https://snowcrows.com/
 * Fractals: https://www.discretize.eu/builds/
-* Everything: https://metabattle.com/wiki/MetaBattle_Wiki and https://hardstuck.gg/gw2/builds/
+* Tudo: https://metabattle.com/wiki/MetaBattle_Wiki e https://hardstuck.gg/gw2/builds/
 
 ## Misc
 * [HoT] https://www.reddit.com/r/Guildwars2/comments/134xbvt/octovine_meta_event_flowchart_for_new_players/ 
