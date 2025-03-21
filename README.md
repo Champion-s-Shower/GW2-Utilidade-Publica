@@ -18,5 +18,11 @@
 * Fractals: [Discretize](https://www.discretize.eu/builds/)
 * Tudo: [MetaBattle](https://metabattle.com/wiki/MetaBattle_Wiki) e [Hardstuck](https://hardstuck.gg/gw2/builds/)
 
-## Misc
-* [HoT] [Octovine meta event flowchart for new players](https://www.reddit.com/r/Guildwars2/comments/134xbvt/octovine_meta_event_flowchart_for_new_players/)
+## Metas
+### Heart of Thorns
+* [Octovine meta event flowchart for new players](https://www.reddit.com/r/Guildwars2/comments/134xbvt/octovine_meta_event_flowchart_for_new_players/)
+
+## Miscs
+* [GW2 Efficiency](https://gw2efficiency.com/)
+* [[fast] Farming Community](https://fast.farming-community.eu/)
+* [GW2 Inventory Cleanup!](https://gw.zweistein.cz/gw2stacks/)
