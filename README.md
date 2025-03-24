@@ -13,6 +13,7 @@
 
 ## Build Crafting
 *  [GW2: A Crappy Guide to Dealing Damage...](https://www.youtube.com/watch?v=F11pvAsvtRg)
+* [Stat Changing](https://wiki.guildwars2.com/wiki/Stat_changing)
 
 ## Builds
 * Raids, Dungeons e Open World: [Snow Crows](https://snowcrows.com/)
